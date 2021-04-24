@@ -166,7 +166,7 @@ export default {
           {
             xType: 'input',
             name: 'formKey',
-            label: '表单标识key',
+            label: '表单标识key11',
             show: !!_this.showConfig.formKey
           },
           {
